@@ -8,4 +8,4 @@ deployment:
     - /bin/cp inner-page.html $DEPLOYPATH
     - /bin/cp portfolio-details.html $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
-    - /bin/cp -R forms $DEPLOYPATH
+    - /bin/cp -R forms $DEPLOYPATH  
